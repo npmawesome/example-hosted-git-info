@@ -1,0 +1,17 @@
+{
+  "name": "example-hosted-git-info",
+  "version": "1.0.0",
+  "description": "Example which describes how to use the hosted-git-info module.",
+  "homepage": "http://npmawesome.com/posts/hosted-git-info",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmawesome/example-hosted-git-info"
+  },
+  "dependencies": {
+    "hosted-git-info": "^1.5.0"
+  }
+}
